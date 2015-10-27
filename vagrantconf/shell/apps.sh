@@ -4,7 +4,7 @@
 sudo apt-get update
 
 # Installation d'apache et php
-sudo apt-get install -y apache2 php5
+sudo apt-get install -y apache2 php5 git
 
 # Installation de cURL
 sudo apt-get install -y curl
